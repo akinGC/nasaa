@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nasaa/static/css/main.75dba65f.css",
+    "main.js": "/nasaa/static/js/main.4b5bce06.js",
+    "static/js/787.14643388.chunk.js": "/nasaa/static/js/787.14643388.chunk.js",
+    "index.html": "/nasaa/index.html",
+    "main.75dba65f.css.map": "/nasaa/static/css/main.75dba65f.css.map",
+    "main.4b5bce06.js.map": "/nasaa/static/js/main.4b5bce06.js.map",
+    "787.14643388.chunk.js.map": "/nasaa/static/js/787.14643388.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75dba65f.css",
+    "static/js/main.4b5bce06.js"
+  ]
+}
