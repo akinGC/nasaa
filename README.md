@@ -1,3 +1,13 @@
+The React Application uses npm packages like
+react-infinite-scroll-component
+react-scroll-horizontal
+react-player
+
+![image](https://user-images.githubusercontent.com/95466685/201029799-1928a3b7-9e8d-437d-b5d1-dc33c499ce79.png)
+![image](https://user-images.githubusercontent.com/95466685/201029952-cac99c77-6263-4b9e-bd8e-5979530c4037.png)
+![image](https://user-images.githubusercontent.com/95466685/201029873-8fa454b9-9b91-4a61-b1db-9ff14484111d.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
